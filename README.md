@@ -44,19 +44,6 @@ Track a red-colored object in real time using your webcam and draw a bounding bo
    ```
 3. Press ESC key to close the window.
 
-## Output Example
-
-When a red object appears in the camera frame, a green rectangle and label will appear around it like this:
-[ Webcam live feed ]
-+------------------------------+
-|   [Red Object]              |
-|   +---------------------+   |
-|   |                     |   |
-|   |    🔴 Red Ball      |   |
-|   |                     |   |
-|   +---------------------+   |
-+------------------------------+
-
 ## How It Works
 
 -Captures frames from webcam
