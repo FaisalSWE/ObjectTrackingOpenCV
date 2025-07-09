@@ -46,7 +46,7 @@ Track a red-colored object in real time using your webcam and draw a bounding bo
 
 ## Output Example:
 
-![Tracking Demo](samples/tracking_demo.png)
+![Tracking Demo](samples/tracking_demo.gif)
 
 ## How It Works
 
