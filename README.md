@@ -22,7 +22,7 @@ Track a red-colored object in real time using your webcam and draw a bounding bo
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/ObjectTrackingOpenCV.git
+   git clone https://github.com/FaisalSWE/ObjectTrackingOpenCV.git
    cd ObjectTrackingOpenCV
    ```
 2. Create a virtual environment (optional but recommended):
