@@ -46,11 +46,11 @@ Track a red-colored object in real time using your webcam and draw a bounding bo
 
 ## How It Works
 
--Captures frames from webcam
--Converts frame from BGR to HSV color space
--Filters out red color using a predefined HSV range
--Detects contours in the mask
--Draws bounding boxes around objects that match the color
+- Captures frames from webcam
+- Converts frame from BGR to HSV color space
+- Filters out red color using a predefined HSV range
+- Detects contours in the mask
+- Draws bounding boxes around objects that match the color
  
 ## HSV Range for Red
 
