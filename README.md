@@ -44,6 +44,10 @@ Track a red-colored object in real time using your webcam and draw a bounding bo
    ```
 3. Press ESC key to close the window.
 
+## Output Example:
+
+![Tracking Demo](samples/tracking_demo.png)
+
 ## How It Works
 
 - Captures frames from webcam
